@@ -6,7 +6,7 @@
 % Usage           :octave>cd /path/
 %                 :octave>ClasificacionNumeros
 %                 :Requiere aplicación octave, usar su linea de comandos
-%                 :repositorio
+%                 :https://github.com/OscarEduardoXXOSOXX/Axiomas/blob/e18a23c4037118f100714cc329af35ee7f65dae6/Axiomas_1.m
 
 clear
 c_Numeros_Naturales = 'N = {1,2,3,... n}';
